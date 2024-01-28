@@ -3,7 +3,7 @@
 install.packages(dplyr)
 install.packages(readxl)
 install.packages(ggplot2)
-install.packages(todyverse)
+install.packages(tidyverse)
 install.packages(reshape2)
 install.packages(modelr)
 install.packages(broom)
