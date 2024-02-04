@@ -201,7 +201,7 @@ sampleEachTooth <- tapply(results$sampleNum,results$sampleNum,length)
 
 # Imports vectors of approximate month, year, etc. of each sample based on constant growth of molars
 
-averyDeerData <- read_excel("C:/Users/randy/School/Fall '21/STAT5010W/Project/Deer Data/Corrected Randy Deer Data.xlsx", col_names=T, sheet=1)
+randyDeerData <- read_excel("C:/Users/randy/School/Fall '21/STAT5010W/Project/Deer Data/Corrected Randy Deer Data.xlsx", col_names=T, sheet=1)
 
 # Adds these columns to results vector (these columns are approximations)
 
